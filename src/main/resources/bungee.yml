@@ -1,0 +1,5 @@
+name: BungeeBridge
+version: '${version}'
+main: io.github.theblueburger.bungeebridge.BungeeBridge
+author: TheBlueBurger
+description: just a bridge
